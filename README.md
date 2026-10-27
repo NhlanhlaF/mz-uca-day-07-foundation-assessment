@@ -55,7 +55,7 @@ Provide links to relevant evidence.
 
 ![SSH Access](evidence/02-ssh.png)
 
-![Install Nginx](evidence/nginx.png)
+![Install Nginx](evidence/03-nginx.png)
 
 ![Application](evidence/04-application.png)
 
